@@ -2,7 +2,7 @@
 
 View game [here](http://waringc.github.io/simon-game)
 
-This repo is a web version version of the game [Simon](https://en.wikipedia.org/wiki/Simon_%28game%29).
+This repo is a web version of the game [Simon](https://en.wikipedia.org/wiki/Simon_%28game%29).
 
 ## Languages Used
 * Javascript
